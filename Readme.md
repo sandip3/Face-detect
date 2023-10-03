@@ -17,19 +17,19 @@ This repository contains code for a face detection project using the OpenCV libr
 
 ## Live Camera Face Detection 📷
 
-[View the Code (completed.py)](/Project%20[Face%20Detect]/completed.py)
+[View the Code (completed.py)](/completed.py)
 
 This script performs real-time face detection using a camera feed.
 
 ## Image Detection from Photos (Python) 📸
 
-[View the Code (new.py)](/Project%20[Face%20Detect]/new.py)
+[View the Code (new.py)](/new.py)
 
 This script detects faces in static images using Python.
 
 ## Image Detection from Photos (Jupyter Notebook) 📒
 
-[View the Code (Face_Detection_with_Python_using_OpenCV.ipynb)](/Project%20[Face%20Detect]/Face_Detection_with_Python_using_OpenCV.ipynb)
+[View the Code (Face_Detection_with_Python_using_OpenCV.ipynb)](/Face_Detection_with_Python_using_OpenCV.ipynb)
 
 This Jupyter Notebook provides step-by-step instructions and code for image-based face detection using OpenCV.
 
